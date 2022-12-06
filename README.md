@@ -9,6 +9,7 @@
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
+- [Wisdom Circle](https://wisdomcircle.com) - WisdomCircle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have accumulated wisdom & skills over a lifetime of experience.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
