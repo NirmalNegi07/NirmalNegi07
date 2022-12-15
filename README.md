@@ -1,4 +1,4 @@
-<h1 align="center">Hiiiii 👋, I'm Nirmal Negi</h1>
+<h1 align="center">Hiiii 👋, I'm Nirmal Negi</h1>
 <h3 align="center">A passionate software developer at ColoredCow.
  Exploring new technologies and developing programming insights</h3>
 
