@@ -22,7 +22,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirmalNegi07&show_icons=true&locale=en" alt="NirmalNegi07" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalNegi07&" alt="NirmalNegi07" /></p>
+
 
 <b>&#x1f4c8;My GitHub Stats</b>
 
