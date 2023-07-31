@@ -1,17 +1,17 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hiiii 👋, I'm Nirmal Negi</h1>
-<h3 align="center">A passionate Software developer at ColoredCow.<br/>
+<h3 align="center">A passionate Software Developer at ColoredCow.<br/>
  Exploring new technologies and developing programming insights</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NirmalNegi07" alt="NirmalNegi07" /></a> </p>
 
-- 📫 How to reach me Email : **www.nirmalnegi2001@gmail.com**
+- 📫 How to reach me Email: **www.nirmalnegi2001@gmail.com**
 
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Wisdom Circle](https://wisdomcircle.com) - WisdomCircle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have accumulated wisdom & skills over a lifetime of experience.
-- [Glific](https://glific.org/) - Glific is a WhatsApp based open source communication platform for NGOs to have conversations with thousands of beneficiaries simultaneously.
+- [Glific](https://glific.org/) - Glific is a WhatsApp-based open-source communication platform for NGOs to converse with thousands of beneficiaries simultaneously.
 
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
