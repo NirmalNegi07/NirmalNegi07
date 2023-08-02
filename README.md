@@ -1,7 +1,7 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hiiii 👋, I'm Nirmal Negi</h1>
-<h3 align="center">A passionate Software Developer at ColoredCow.</h3><br/>
-<h3> Exploring new technologies and developing programming insights</h3>
+<h3 align="center">A passionate Software Developer at ColoredCow.<br/>
+Exploring new technologies and developing programming insights</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NirmalNegi07" alt="NirmalNegi07" /></a> </p>
 
