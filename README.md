@@ -1,6 +1,6 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hiiii 👋, I'm Nirmal Negi</h1>
-<h3 align="center">A passionate Software Developer at ColoredCow.<br/>
+<h3 align="center">A passionate Software Developer.<br/>
 Exploring new technologies and developing programming insights</h3>
 
 
