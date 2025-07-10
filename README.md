@@ -1,32 +1,120 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
-<h1 align="center">Hiiii 👋, I'm Nirmal Negi</h1>
-<h3 align="center">A passionate Software Developer.<br/>
-Exploring new technologies and developing programming insights</h3>
+<p align="center">
+  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="header" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Nirmal Negi</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Open Source Contributor | Problem Solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NirmalNegi07" alt="NirmalNegi07"/></a> </p>
+<p align="center">
+  <a href="mailto:www.nirmalnegi2001@gmail.com">📧 nirmalnegi2001@gmail.com</a> |
+  <a href="https://github.com/NirmalNegi07">🌐 GitHub</a> |
+  <a href="https://linkedin.com/in/nirmal007">💼 LinkedIn</a>
+</p>
 
-- 📫 How to reach me Email: **www.nirmalnegi2001@gmail.com**
+---
 
-### :computer: Work
+### 🧑‍💻 About Me
 
-- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
-- [Wisdom Circle](https://wisdomcircle.com) - WisdomCircle is a global platform that connects retired professionals to relevant, meaningful engagements. These retired professionals, typically above 50, have accumulated wisdom & skills over a lifetime of experience.
-- [Glific](https://glific.org/) - Glific is a WhatsApp-based open-source communication platform for NGOs to converse with thousands of beneficiaries simultaneously.
-- [MentorTogether](https://mentortogether.org/) - Mentor Together provides empowering one-to-one mentoring relationships that helps young people from disadvantaged backgrounds break the inequality of opportunity.
+- 💻 I'm a software developer with a deep passion for **clean code**, **performance optimization**, and **scalable architectures**.
+- 🌱 Currently exploring **DevOps**, **AI-integrated systems**, and **Cloud-native applications**.
+- 🤝 I actively contribute to **open-source** and love collaborating on impactful projects.
+- 🎯 Goal-oriented, quality-focused, and always ready to learn something new.
+- ✨ Beyond code: A strong believer in technology’s ability to **solve real-world problems**.
 
+---
 
+### 💼 Projects & Contributions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### 🌟 Featured Projects
 
-<b>&#x1f4c8;My GitHub Stats</b>
+- [🔹 Employee Portal](https://github.com/ColoredCow/portal) – Central platform streamlining organizational operations and workflows.
+- [🔹 Wisdom Circle](https://wisdomcircle.com) – Empowering retired professionals with meaningful second careers.
+- [🔹 Glific](https://glific.org) – WhatsApp-based platform helping NGOs engage with communities at scale.
+- [🔹 Mentor Together](https://mentortogether.org) – Mentoring platform supporting youth from disadvantaged backgrounds.
 
-<p align = "left">
-<a href="http://www.github.com/NirmalNegi07">
-<img src="https://github-readme-stats.vercel.app/api?username=NirmalNegi07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NirmalNegi07's GitHub stats" width = 400 />
-</a>
-<a href="http://www.github.com/NirmalNegi07">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalNegi07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width = 400/>
-</a>
+#### 🛠️ Other Contributions
+
+- ✅ Performance optimization in multi-tenant systems.
+- ✅ Improved database query efficiency and architectural scalability.
+- ✅ Integration of analytics & monitoring tools (Sentry, APMs) for production insights.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 👨‍💻 Languages:
+`JavaScript` `Python` `PHP` `Java` `C` `SQL`
+
+#### 🌐 Frontend:
+`React` `HTML5` `CSS3` `Bootstrap` `Nuxt.js` `Figma` `Angular`
+
+#### 🔧 Backend:
+`Django` `Laravel` `Node.js` (in progress) `REST APIs` `DotNet`
+
+#### 🗃️ Database & DevOps:
+`MySQL` `PostgreSQL` `MongoDB` `Docker` `AWS (basic)` `CI/CD (basic)`
+
+#### 🧪 Tools & Platforms:
+`Git` `Postman` `Cypress` `Sentry` `VSCode` `Jira` `Notion` `Visual Studio`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,php,java,mysql,postgres,html,css,git,angular,dotnet,django,bootstrap,figma,postman,cypress,docker,nuxt" />
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NirmalNegi07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalNegi07&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalNegi07&theme=tokyonight" width="95%"/>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NirmalNegi07&theme=onestar&row=1&column=6&no-frame=true" />
+</p>
+
+---
+
+### 📌 Currently Learning
+
+- 🔧 **Advanced System Design**
+- 🧠 **AI-enhanced applications**
+- ☁️ **AWS Cloud Architecture**
+- ⚙️ **CI/CD pipelines with GitHub Actions**
+
+---
+
+### ❤️ Fun Facts About Me
+
+- ☕ I believe a good day starts with coffee and code.
+- 🎯 I love solving real-world problems with efficient tech.
+- 🎧 My concentration fuel? Lofi beats and coding playlists.
+- 🤹‍♂️ I'm a big fan of side projects and technical blogging (coming soon!).
+
+---
+
+### 📬 Let's Connect
+
+I'm always up for discussions, collaborations, or just geeking out over tech!  
+Feel free to connect on [**LinkedIn**](https://linkedin.com/in/nirmal007) or drop a message on [**Email**](mailto:www.nirmalnegi2001@gmail.com)
+
+---
+
+### ✨ Quote I Live By
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+---
+
+<p align="center">
+  💡 Thank you for visiting my profile! Let’s build something meaningful together 🚀
 </p>
