@@ -34,7 +34,7 @@
 
 #### 🛠️ Other Contributions
 
-- ✅ Performance optimization in multi-tenant systems.
+- ✅ Played a key role in developing multi-tenant system.
 - ✅ Improved database query efficiency and architectural scalability.
 - ✅ Integration of analytics & monitoring tools (Sentry, APMs) for production insights.
 
@@ -49,7 +49,7 @@
 `React` `HTML5` `CSS3` `Bootstrap` `Nuxt.js` `Figma` `Angular`
 
 #### 🔧 Backend:
-`Django` `Laravel` `Node.js` (in progress) `REST APIs` `DotNet`
+`Django` `Laravel` `Node.js` `REST APIs` `DotNet`
 
 #### 🗃️ Database & DevOps:
 `MySQL` `PostgreSQL` `MongoDB` `Docker` `AWS (basic)` `CI/CD (basic)`
