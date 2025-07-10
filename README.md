@@ -34,7 +34,7 @@
 
 #### 🛠️ Other Contributions
 
-- ✅ Played a key role in developing multi-tenant system.
+- ✅ Built and implemented a robust multi-tenant system to support multiple clients efficiently.
 - ✅ Improved database query efficiency and architectural scalability.
 - ✅ Integration of analytics & monitoring tools (Sentry, APMs) for production insights.
 
@@ -98,7 +98,6 @@
 - ☕ I believe a good day starts with coffee and code.
 - 🎯 I love solving real-world problems with efficient tech.
 - 🎧 My concentration fuel? Lofi beats and coding playlists.
-- 🤹‍♂️ I'm a big fan of side projects and technical blogging (coming soon!).
 
 ---
 
