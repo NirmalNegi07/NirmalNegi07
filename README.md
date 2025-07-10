@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | Open Source Contributor | Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:www.nirmalnegi2001@gmail.com">📧 nirmalnegi2001@gmail.com</a> |
+  |
   <a href="https://github.com/NirmalNegi07">🌐 GitHub</a> |
   <a href="https://linkedin.com/in/nirmal007">💼 LinkedIn</a>
 </p>
@@ -105,7 +105,7 @@
 ### 📬 Let's Connect
 
 I'm always up for discussions, collaborations, or just geeking out over tech!  
-Feel free to connect on [**LinkedIn**](https://linkedin.com/in/nirmal007) or drop a message on [**Email**](mailto:www.nirmalnegi2001@gmail.com)
+Feel free to connect on [**LinkedIn**](https://linkedin.com/in/nirmal007)
 
 ---
 
