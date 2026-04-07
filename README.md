@@ -80,14 +80,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirmalNegi07&theme=onestar&row=1&column=6&no-frame=true" />
-</p>
-
----
-
 ### 📌 Currently Learning
 
 - 🔧 **Advanced System Design**
@@ -99,7 +91,7 @@
 
 ### ❤️ Fun Facts About Me
 
-- ☕ I believe a good day starts with coffee and code.
+- ☕ I believe a good day starts with chai and code.
 - 🎯 I love solving real-world problems with efficient tech.
 - 🎧 My concentration fuel? Lofi beats and coding playlists.
 
