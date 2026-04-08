@@ -70,7 +70,6 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirmalNegi07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalNegi07&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
