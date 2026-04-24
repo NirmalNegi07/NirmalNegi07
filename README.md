@@ -36,6 +36,56 @@
 - [🔹 Glific](https://glific.org) – WhatsApp-based platform helping NGOs engage with communities at scale.
 - [🔹 Mentor Together](https://mentortogether.org) – Mentoring platform supporting youth from disadvantaged backgrounds.
 
+<h2>✍️ Technical Writing & Blogs</h2>
+
+<p>
+I write about performance engineering, DevOps modernization, scalable architecture and technology for social impact.
+</p>
+
+<ul>
+<li>
+🛢️
+<a href="https://medium.com/@www.nirmalnegi2001/debugging-and-optimizing-large-scale-mysql-stored-procedures-091b80ada9ae">
+Debugging and Optimizing Large-Scale MySQL Stored Procedures
+</a>
+</li>
+
+<li>
+📊
+<a href="https://medium.com/@www.nirmalnegi2001/application-analytics-exposed-what-logs-never-could-sentry-posthog-7615c71ffe7c">
+Application Analytics Exposed: What Logs Never Could (Sentry + PostHog)
+</a>
+</li>
+
+<li>
+⚙️
+<a href="https://medium.com/@www.nirmalnegi2001/from-filezilla-to-fully-automated-ci-cd-how-we-modernized-a-legacy-system-16ad17def5e8">
+From FileZilla to Fully Automated CI/CD
+</a>
+</li>
+
+<li>
+🏫
+<a href="https://medium.com/@www.nirmalnegi2001/empowering-education-transforming-lend-a-hand-indias-mission-with-multitenancy-c9d15bf9cc24">
+Transforming Lend A Hand India’s Mission with Multitenancy
+</a>
+</li>
+
+<li>
+🌍
+<a href="https://medium.com/@www.nirmalnegi2001/empowering-education-revolutionizing-ngo-operations-with-scalable-solutions-d8a8b929c628">
+Revolutionizing NGO Operations with Scalable Solutions
+</a>
+</li>
+</ul>
+
+<p>
+📚 More on 
+<a href="https://medium.com/@www.nirmalnegi2001"><b>Medium</b></a>
+</p>
+
+<hr>
+
 #### 🛠️ Other Contributions
 
 - ✅ Built and implemented a robust multi-tenant system to support multiple clients efficiently.
