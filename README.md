@@ -51,6 +51,13 @@ Debugging and Optimizing Large-Scale MySQL Stored Procedures
 </li>
 
 <li>
+🛢️
+<a href="https://medium.com/@www.nirmalnegi2001/instrumenting-user-behaviour-on-kaushalsaathi-with-posthog-13713048519b">
+Instrumenting User Behaviour on KaushalSaathi with PostHog
+</a>
+</li>
+
+<li>
 📊
 <a href="https://medium.com/@www.nirmalnegi2001/application-analytics-exposed-what-logs-never-could-sentry-posthog-7615c71ffe7c">
 Application Analytics Exposed: What Logs Never Could (Sentry + PostHog)
