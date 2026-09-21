@@ -51,7 +51,7 @@ Debugging and Optimizing Large-Scale MySQL Stored Procedures
 </li>
 
 <li>
-🛢️
+👨‍🔧
 <a href="https://medium.com/@www.nirmalnegi2001/instrumenting-user-behaviour-on-kaushalsaathi-with-posthog-13713048519b">
 Instrumenting User Behaviour on KaushalSaathi with PostHog
 </a>
