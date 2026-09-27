@@ -14,6 +14,8 @@
   <a href="https://github.com/NirmalNegi07">🌐 GitHub</a> |
   <a href="https://linkedin.com/in/nirmal007">💼 LinkedIn</a>
   <a href="https://medium.com/@www.nirmalnegi2001">✍🏻 Medium</a>
+  <a href="https://portfolio-lac-kappa-88.vercel.app/#skills">😎 Portfolio</a>
+
 </p>
 
 ---
