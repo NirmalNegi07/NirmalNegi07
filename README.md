@@ -30,14 +30,26 @@
 
 ---
 
-### 💼 Projects & Contributions
+## 🚀 What I Work On
+ 
+- **System Architecture:** designing scalable applications and multi-tenant architectures
+- **Performance Engineering:** optimizing databases, APIs and application performance
+- **AI Engineering:** building RAG pipelines, LLM integrations and AI-powered applications
+- **DevOps & Cloud:** AWS infrastructure, CI/CD automation and production deployments
+- **Technical Leadership:** leading engineering initiatives, mentoring developers and driving delivery
+---
 
-#### 🌟 Featured Projects
-
-- [🔹 Employee Portal](https://github.com/ColoredCow/portal) – Central platform streamlining organizational operations and workflows.
-- [🔹 Wisdom Circle](https://wisdomcircle.com) – Empowering retired professionals with meaningful second careers.
-- [🔹 Glific](https://glific.org) – WhatsApp-based platform helping NGOs engage with communities at scale.
-- [🔹 Mentor Together](https://mentortogether.org) – Mentoring platform supporting youth from disadvantaged backgrounds.
+## 🌟 Projects & Contributions
+ 
+| Project | Description |
+|---|---|
+| **Lighthouse**| Architected the multi-tenant transformation of a large-scale vocational-education platform, serving multiple states through shared infrastructure and isolated databases |
+| **Kaushal Saathi** | Built an AI teaching companion using RAG, Qdrant and Gemini that helps teachers generate curriculum-grounded lesson plans and access AI coaching |
+| [**Wisdom Circle**](https://wisdomcircle.com) | Contributed to a global platform connecting retired professionals with meaningful career opportunities |
+| [**Mentor Together**](https://mentortogether.org) | Worked on a mentorship platform supporting young people through technology-enabled programs |
+| [**ColoredCow Portal**](https://github.com/ColoredCow/portal) | Developed responsive web experiences and internal workflows for an open-source organizational portal |
+ 
+---
 
 <h2>✍️ Technical Writing & Blogs</h2>
 
@@ -107,22 +119,22 @@ Revolutionizing NGO Operations with Scalable Solutions
 ### 🛠️ Tech Stack & Tools
 
 #### 👨‍💻 Languages:
-`JavaScript` `Python` `PHP` `Java` `C` `SQL`
+`JavaScript` `Python` `PHP` `C` `SQL`
 
 #### 🌐 Frontend:
-`React` `HTML5` `CSS3` `Bootstrap` `Nuxt.js` `Figma` `Angular`
+`React` `HTML5` `CSS3` `Bootstrap` `Angular`
 
 #### 🔧 Backend:
 `Django` `Laravel` `Node.js` `REST APIs` `DotNet`
 
 #### 🗃️ Database & DevOps:
-`MySQL` `PostgreSQL` `MongoDB` `Docker` `AWS (basic)` `CI/CD (basic)`
+`MySQL` `PostgreSQL` `MongoDB` `Docker` `AWS` `CI/CD`
 
 #### 🧪 Tools & Platforms:
-`Git` `Postman` `Cypress` `Sentry` `VSCode` `Jira` `Notion` `Visual Studio`
+`Git` `Postman` `Cypress` `Sentry` `VSCode` `Jira` `Notion` `Visual Studio` `Figma`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,php,java,mysql,postgres,html,css,git,angular,dotnet,django,bootstrap,figma,postman,cypress,docker,nuxt" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,php,java,mysql,postgres,html,css,git,angular,dotnet,bootstrap,figma,postman,cypress,docker" />
 </p>
 
 ---
@@ -139,12 +151,14 @@ Revolutionizing NGO Operations with Scalable Solutions
 
 ---
 
-### 📌 Currently Learning
-
-- 🔧 **Advanced System Design**
-- 🧠 **AI-enhanced applications**
-- ☁️ **AWS Cloud Architecture**
-- ⚙️ **CI/CD pipelines with GitHub Actions**
+## 🌱 Currently Exploring
+ 
+- Advanced AI engineering, RAG and agentic AI
+- Distributed systems and advanced system design
+- AWS cloud architecture and infrastructure
+- Production-grade CI/CD and DevOps
+- Secure and scalable AI applications
+---
 
 ---
 
